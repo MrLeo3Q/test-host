@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hodfords.hrm.dev",
+    "sha256_cert_fingerprints":
+    [" 28:23:19:93:7E:F5:0E:20:92:97:ED:41:33:0D:F5:CA:AA:27:0A:9E:E4:6D:AD:3D:29:EE:2F:C6:7A:C1:B2:8E", "ea:1d:11:e4:56:ce:30:15:91:75:ef:9b:24:06:81:b9:3b:e5:be:9e"]
+  }
+}]
