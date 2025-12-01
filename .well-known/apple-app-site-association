@@ -7,8 +7,8 @@
           "UDB39AFM48.com.hodfords.hrm.dev"
         ],
         "paths": [
-          "/channel_detail/*",
-          "/thread_detail/*"
+          "/channel/*",
+          "/thread/*"
         ],
         "components": [
           {
