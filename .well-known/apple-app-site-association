@@ -9,7 +9,8 @@
         "paths": [
           "/channel/*",
           "/thread/*",
-          "/dm/*"
+          "/direct/*",
+          "/group/*"
         ],
         "components": [
           {
